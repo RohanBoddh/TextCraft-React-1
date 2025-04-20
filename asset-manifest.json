@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TextCraft-React-1/static/css/main.f855e6bc.css",
-    "main.js": "/TextCraft-React-1/static/js/main.87b26cb2.js",
+    "main.js": "/TextCraft-React-1/static/js/main.fdc6f298.js",
     "static/js/453.4a6d37f3.chunk.js": "/TextCraft-React-1/static/js/453.4a6d37f3.chunk.js",
     "index.html": "/TextCraft-React-1/index.html",
     "main.f855e6bc.css.map": "/TextCraft-React-1/static/css/main.f855e6bc.css.map",
-    "main.87b26cb2.js.map": "/TextCraft-React-1/static/js/main.87b26cb2.js.map",
+    "main.fdc6f298.js.map": "/TextCraft-React-1/static/js/main.fdc6f298.js.map",
     "453.4a6d37f3.chunk.js.map": "/TextCraft-React-1/static/js/453.4a6d37f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.87b26cb2.js"
+    "static/js/main.fdc6f298.js"
   ]
 }
