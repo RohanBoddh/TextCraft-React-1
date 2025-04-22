@@ -48,7 +48,7 @@ function App() {
 <Navbar title="TextCraft" aboutText="About" mode={mode} toggleMode={toggleMode} />
       <Alert alert={alert} />
     <div className="container my-3">
-        <TextForm showAlert={showAlert} heading="Try-TextCraft-Word Counter, Character Counter, 
+        <TextForm showAlert={showAlert} heading="Try-TextUtils-Word Counter, Character Counter, 
         Capitalizing The First Letter Of Every Word" mode={mode} />
         {/* <About mode={mode}/> */}
      </div>
