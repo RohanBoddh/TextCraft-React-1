@@ -34,7 +34,7 @@ function App() {
 
     {/* IT IS FOR ROUTING GITHUB KA LIYA COMMENT KEYA HAI KYU KI GITHUB PER ROUTING SAHI SA NAHI CHALTI */}
     {/* <Router>
-      <Navbar title="TextCraft" aboutText="About" mode={mode} toggleMode={toggleMode} />
+      <Navbar title="TextUtils" aboutText="About" mode={mode} toggleMode={toggleMode} />
       <Alert alert={alert} />
     <div className="container my-3">
         <Routes>

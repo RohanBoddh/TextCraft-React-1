@@ -55,7 +55,7 @@ export default function About(props) {
             data-bs-parent="#accordionExample"
           >
             <div className="accordion-body" style={mystyle}>
-              TextCraft gives you a way to analyze your text quickly and efficiently. Be it word count, character count or
+              TextUtils gives you a way to analyze your text quickly and efficiently. Be it word count, character count or
             </div>
           </div>
         </div>
