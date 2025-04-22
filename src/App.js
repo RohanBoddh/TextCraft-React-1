@@ -45,7 +45,7 @@ function App() {
     </Router> */}
 
 
-<Navbar title="Textutils" aboutText="About" mode={mode} toggleMode={toggleMode} />
+<Navbar title="TextCraft" aboutText="About" mode={mode} toggleMode={toggleMode} />
       <Alert alert={alert} />
     <div className="container my-3">
         <TextForm showAlert={showAlert} heading="Try-TextCraft-Word Counter, Character Counter, 
